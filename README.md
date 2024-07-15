@@ -1,0 +1,1 @@
+ this is a Student Biodata Form project created using PHP. The form is designed to collect and store detailed information about students. The collected data includes personal details, guidance details, contact information, and other relevant information. The project is structured to be simple, user-friendly, and secure.
